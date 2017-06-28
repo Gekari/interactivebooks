@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# Interactive books
+Interactive books made with cocos creator [WORK IN PROGRESS]
