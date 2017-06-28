@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "66f3ffc3-6c81-467b-863b-697816953a9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fono_samba": {
+      "ver": "1.0.3",
+      "uuid": "2b54abd0-6d84-429e-b763-c8b616e41d6f",
+      "rawTextureUuid": "66f3ffc3-6c81-467b-863b-697816953a9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 460,
+      "height": 368,
+      "rawWidth": 460,
+      "rawHeight": 368,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

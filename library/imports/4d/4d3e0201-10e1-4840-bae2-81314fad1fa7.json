@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pepe00",
+    "texture": "5b1f5659-9827-43be-bb1e-3f5d6bd48430",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      872,
+      606
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      874,
+      608
+    ]
+  }
+}

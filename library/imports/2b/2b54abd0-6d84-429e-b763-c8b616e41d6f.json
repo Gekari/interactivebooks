@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fono_samba",
+    "texture": "66f3ffc3-6c81-467b-863b-697816953a9d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      460,
+      368
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      460,
+      368
+    ]
+  }
+}

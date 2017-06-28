@@ -1,0 +1,78 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pacorotation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.25,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            343.877551,
+            -214
+          ]
+        },
+        {
+          "frame": 0.20833333333333334,
+          "value": [
+            385,
+            -214
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            385,
+            -214
+          ]
+        },
+        {
+          "frame": 1.0416666666666667,
+          "value": [
+            385,
+            -214
+          ]
+        },
+        {
+          "frame": 1.25,
+          "value": [
+            347.871,
+            -214
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.20833333333333334,
+          "value": 0
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": -20
+        },
+        {
+          "frame": 0.625,
+          "value": 0
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": -20
+        },
+        {
+          "frame": 1.0416666666666667,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

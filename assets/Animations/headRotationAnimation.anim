@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "headRotationAnimation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 20,
+  "speed": 0.4,
+  "wrapMode": 36,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.25,
+          "value": 24
+        },
+        {
+          "frame": 0.5,
+          "value": 3
+        },
+        {
+          "frame": 0.75,
+          "value": -23
+        },
+        {
+          "frame": 1,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.25,
+      "func": "",
+      "params": []
+    }
+  ]
+}

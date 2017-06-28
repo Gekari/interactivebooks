@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sambarotation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8333333333333334,
+  "sample": 24,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -364.52,
+            -156.48
+          ]
+        },
+        {
+          "frame": 0.5833333333333334,
+          "value": [
+            -364.52,
+            -156.48
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            -365,
+            -113
+          ]
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            -364.52,
+            -156.48
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.20833333333333334,
+          "value": -25
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": 25
+        },
+        {
+          "frame": 0.625,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}
